@@ -93,3 +93,9 @@ C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_NEGOCIOS\obj\Debug
 C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_NEGOCIOS\obj\Debug\CAPA_DE_.B2490BB0.Up2Date
 C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_NEGOCIOS\obj\Debug\CAPA_DE_NEGOCIOS.dll
 C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_NEGOCIOS\obj\Debug\CAPA_DE_NEGOCIOS.pdb
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_NEGOCIOS\bin\Debug\AForge.dll
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_NEGOCIOS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_NEGOCIOS\bin\Debug\AForge.Video.dll
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_NEGOCIOS\bin\Debug\AForge.xml
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_NEGOCIOS\bin\Debug\AForge.Video.xml
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_NEGOCIOS\bin\Debug\AForge.Video.DirectShow.xml

@@ -38,7 +38,7 @@
             this.btnReportes = new System.Windows.Forms.Button();
             this.button6 = new System.Windows.Forms.Button();
             this.btnCursos = new System.Windows.Forms.Button();
-            this.btnMatriculas = new System.Windows.Forms.Button();
+            this.btnDocentes = new System.Windows.Forms.Button();
             this.btnAulas = new System.Windows.Forms.Button();
             this.btnHorarios = new System.Windows.Forms.Button();
             this.btnSecciones = new System.Windows.Forms.Button();
@@ -98,6 +98,7 @@
             this.btnGestionEstudiantes.TabIndex = 4;
             this.btnGestionEstudiantes.Text = "Gestion de Estudiantes";
             this.btnGestionEstudiantes.UseVisualStyleBackColor = false;
+            this.btnGestionEstudiantes.Click += new System.EventHandler(this.btnGestionEstudiantes_Click);
             // 
             // btnCamaras
             // 
@@ -165,18 +166,19 @@
             this.btnCursos.UseVisualStyleBackColor = false;
             this.btnCursos.Click += new System.EventHandler(this.btnCursos_Click);
             // 
-            // btnMatriculas
+            // btnDocentes
             // 
-            this.btnMatriculas.BackColor = System.Drawing.Color.DodgerBlue;
-            this.btnMatriculas.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-            this.btnMatriculas.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.btnMatriculas.ForeColor = System.Drawing.Color.Snow;
-            this.btnMatriculas.Location = new System.Drawing.Point(12, 319);
-            this.btnMatriculas.Name = "btnMatriculas";
-            this.btnMatriculas.Size = new System.Drawing.Size(131, 25);
-            this.btnMatriculas.TabIndex = 12;
-            this.btnMatriculas.Text = "Matriculas";
-            this.btnMatriculas.UseVisualStyleBackColor = false;
+            this.btnDocentes.BackColor = System.Drawing.Color.DodgerBlue;
+            this.btnDocentes.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.btnDocentes.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.btnDocentes.ForeColor = System.Drawing.Color.Snow;
+            this.btnDocentes.Location = new System.Drawing.Point(12, 319);
+            this.btnDocentes.Name = "btnDocentes";
+            this.btnDocentes.Size = new System.Drawing.Size(131, 25);
+            this.btnDocentes.TabIndex = 12;
+            this.btnDocentes.Text = "Docentes";
+            this.btnDocentes.UseVisualStyleBackColor = false;
+            this.btnDocentes.Click += new System.EventHandler(this.btnDocentes_Click);
             // 
             // btnAulas
             // 
@@ -223,7 +225,7 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(800, 450);
             this.Controls.Add(this.button6);
-            this.Controls.Add(this.btnMatriculas);
+            this.Controls.Add(this.btnDocentes);
             this.Controls.Add(this.btnReportes);
             this.Controls.Add(this.btnCursos);
             this.Controls.Add(this.btnAsistencia);
@@ -256,7 +258,7 @@
         private System.Windows.Forms.Button btnGestionEstudiantes;
         private System.Windows.Forms.Button btnGestionUsuarios;
         private System.Windows.Forms.Button btnCursos;
-        private System.Windows.Forms.Button btnMatriculas;
+        private System.Windows.Forms.Button btnDocentes;
         private System.Windows.Forms.Button btnAulas;
         private System.Windows.Forms.Button btnHorarios;
         private System.Windows.Forms.Button btnSecciones;

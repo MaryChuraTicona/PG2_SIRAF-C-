@@ -12,44 +12,42 @@ namespace CAPA_DE_NEGOCIOS
     {
         private readonly clsCursoCD cd = new clsCursoCD();
 
-        public DataTable Listar() => cd.Listar();
+        public DataTable Listar() => cd.ListarCursos();
 
-        public void Crear(string codigo, string nombre, int creditos, bool estado)
+        public int Guardar(int cursoId, string codigo, string nombre, int creditos, bool estado)
         {
-            ValidarDatos(codigo, nombre, creditos);
-
-            // Código único
-            if (cd.ExisteCodigo(codigo))
-                throw new Exception("El código ya existe. Ingrese otro.");
-
-            cd.Insertar(codigo.Trim(), nombre.Trim(), creditos, estado);
+            if (cursoId == 0)
+                return cd.InsertarCurso(codigo, nombre, creditos, estado);
+            else
+                return cd.ActualizarCurso(cursoId, codigo, nombre, creditos, estado);
         }
 
-        public void Actualizar(int id, string codigo, string nombre, int creditos, bool estado)
+        public DataTable ListarPrereq(int cursoId) => cd.ListarPrerequisitos(cursoId);
+
+        public void AgregarPrereq(int cursoId, int preId) => cd.InsertarPrerequisito(cursoId, preId);
+
+        public void QuitarPrereq(int cursoId, int preId) => cd.EliminarPrerequisito(cursoId, preId);
+
+        public int GuardarSeccion(int id, int cursoId, string nombre, string periodo, int docenteId, int aulaId)
         {
-            if (id <= 0) throw new Exception("Id inválido");
-            ValidarDatos(codigo, nombre, creditos);
-
-            // Código único excluyendo el mismo Id
-            if (cd.ExisteCodigo(codigo, id))
-                throw new Exception("El código ya existe en otro curso.");
-
-            var filas = cd.Actualizar(id, codigo.Trim(), nombre.Trim(), creditos, estado);
-            if (filas == 0) throw new Exception("No se actualizó el registro (puede que ya no exista).");
+            if (id == 0)
+                return cd.InsertarSeccion(cursoId, nombre, periodo, docenteId, aulaId);
+            else
+                return cd.ActualizarSeccion(id, nombre, periodo, docenteId, aulaId);
         }
+
+        public void GuardarHorario(int seccionId, int dia, TimeSpan inicio, TimeSpan fin)
+            => cd.InsertarHorario(seccionId, dia, inicio, fin);
+
+        public void EliminarHorario(int horarioId)
+            => cd.EliminarHorario(horarioId);
 
         public void Eliminar(int id)
         {
-            if (id <= 0) throw new Exception("Seleccione un curso.");
-            var filas = cd.Eliminar(id);
-            if (filas == 0) throw new Exception("No se eliminó el registro (puede que ya no exista).");
+            
+            cd.EliminarCurso(id);
         }
 
-        private static void ValidarDatos(string codigo, string nombre, int creditos)
-        {
-            if (string.IsNullOrWhiteSpace(codigo)) throw new Exception("Ingrese el código.");
-            if (string.IsNullOrWhiteSpace(nombre)) throw new Exception("Ingrese el nombre.");
-            if (creditos < 0) throw new Exception("Los créditos no pueden ser negativos.");
-        }
     }
+
 }

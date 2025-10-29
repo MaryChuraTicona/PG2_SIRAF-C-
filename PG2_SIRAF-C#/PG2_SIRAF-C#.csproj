@@ -35,6 +35,15 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+    </Reference>
     <Reference Include="Azure.Core, Version=1.47.1.0, Culture=neutral, PublicKeyToken=92742159e12e44c8, processorArchitecture=MSIL">
       <HintPath>..\packages\Azure.Core.1.47.1\lib\net472\Azure.Core.dll</HintPath>
     </Reference>
@@ -171,6 +180,18 @@
     <Compile Include="frmCursos.Designer.cs">
       <DependentUpon>frmCursos.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmDocente.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDocente.Designer.cs">
+      <DependentUpon>frmDocente.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmEstudiantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmEstudiantes.Designer.cs">
+      <DependentUpon>frmEstudiantes.cs</DependentUpon>
+    </Compile>
     <Compile Include="frmLogin.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -187,6 +208,12 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmCursos.resx">
       <DependentUpon>frmCursos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDocente.resx">
+      <DependentUpon>frmDocente.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmEstudiantes.resx">
+      <DependentUpon>frmEstudiantes.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="frmLogin.resx">
       <DependentUpon>frmLogin.cs</DependentUpon>
@@ -218,6 +245,10 @@
     <None Include="App.config" />
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="..\CAPA_DE_DATOS\CAPA_DE_DATOS.csproj">
+      <Project>{63656a58-1635-4518-a52b-983c0fa8be3f}</Project>
+      <Name>CAPA_DE_DATOS</Name>
+    </ProjectReference>
     <ProjectReference Include="..\CAPA_DE_NEGOCIOS\CAPA_DE_NEGOCIOS.csproj">
       <Project>{1aa5f273-b3c3-4e5a-8c5b-b4477c3fad8b}</Project>
       <Name>CAPA_DE_NEGOCIOS</Name>

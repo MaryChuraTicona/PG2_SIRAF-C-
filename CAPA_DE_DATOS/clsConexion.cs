@@ -11,7 +11,7 @@ namespace CAPA_DE_DATOS
     public class clsConexion
     {
         private SqlConnection conexion = new SqlConnection(
-           "server=DESKTOP-H2DTJ40; database= PROYECTO_ASISTENCIA; integrated security=true; TrustServerCertificate=True;"
+           "server=DESKTOP-H2DTJ40;database=PROYECTO_ASISTENCIA; integrated security=true; TrustServerCertificate=True;"
        );
 
 

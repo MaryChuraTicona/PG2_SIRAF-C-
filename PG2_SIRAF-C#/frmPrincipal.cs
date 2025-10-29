@@ -34,7 +34,7 @@ namespace PG2_SIRAF_C_
             btnSecciones.Enabled = false;
             btnHorarios.Enabled = false;
             btnAulas.Enabled = false;
-            btnMatriculas.Enabled = false;
+            btnDocentes.Enabled = false;
             btnCamaras.Enabled = false;
             btnAsistencia.Enabled = false;       // consultas
             btnReportes.Enabled = false;
@@ -45,7 +45,7 @@ namespace PG2_SIRAF_C_
             Habilitar(Permisos.GEST_SECCIONES, btnSecciones);
             Habilitar(Permisos.GEST_HORARIOS, btnHorarios);
             Habilitar(Permisos.GEST_AULAS, btnAulas);
-            Habilitar(Permisos.GEST_MATRICULAS, btnMatriculas);
+            Habilitar(Permisos.GEST_MATRICULAS, btnDocentes);
             Habilitar(Permisos.GEST_CAMARAS, btnCamaras);
             Habilitar(Permisos.CONSULTAR_ASISTENCIAS, btnAsistencia);
             Habilitar(Permisos.REPORTES, btnReportes);
@@ -90,6 +90,16 @@ namespace PG2_SIRAF_C_
         private void btnCursos_Click(object sender, EventArgs e)
         {
             CargarFormularioEnPanel(new frmCursos());
+        }
+
+        private void btnDocentes_Click(object sender, EventArgs e)
+        {
+            CargarFormularioEnPanel(new frmDocente());
+        }
+
+        private void btnGestionEstudiantes_Click(object sender, EventArgs e)
+        {
+            CargarFormularioEnPanel(new frmEstudiantes());
         }
     }
     

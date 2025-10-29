@@ -102,3 +102,11 @@ C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\obj\Debug\PG2
 C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\obj\Debug\PG2_SIRAF-C#.pdb
 C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\obj\Debug\PG2_SIRAF-C#.exe.config
 C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\obj\Debug\PG2_SIRAF_C_.frmCursos.resources
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\obj\Debug\PG2_SIRAF_C_.frmDocente.resources
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\obj\Debug\PG2_SIRAF_C_.frmEstudiantes.resources
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\bin\Debug\AForge.dll
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\bin\Debug\AForge.Video.dll
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\bin\Debug\AForge.xml
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\bin\Debug\AForge.Video.xml
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\PG2_SIRAF-C#\bin\Debug\AForge.Video.DirectShow.xml

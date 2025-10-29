@@ -3,75 +3,127 @@
   "WorkspaceRootPath": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_negocios\\clscursocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\clscursocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\pg2_siraf-c#\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\pg2_siraf-c#\\frmcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\pg2_siraf-c#\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmestudiantes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\pg2_siraf-c#\\frmcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_datos\\clsconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_datos\\clsconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\clsconexion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_datos\\clscursocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\clscursocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_negocios\\clsusuariocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\clsusuariocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_negocios\\clsresultadologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\clsresultadologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_datos\\clsusuarioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\clsusuarioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_datos\\clsusuariocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\clsusuariocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\pg2_siraf-c#\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\pg2_siraf-c#\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\pg2_siraf-c#\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\pg2_siraf-c#\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\pg2_siraf-c#\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\pg2_siraf-c#\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_negocios\\clsestudiantecn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\clsestudiantecn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_datos\\clsestudiantescd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\clsestudiantescd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_negocios\\clsmatriculacn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\clsmatriculacn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\pg2_siraf-c#\\frmdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\pg2_siraf-c#\\frmdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmdocente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_negocios\\clsdocentecn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\clsdocentecn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_negocios\\clscursocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\clscursocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_datos\\clsdocentecd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\clsdocentecd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_datos\\clsmatriculacd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\clsmatriculacd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\pg2_siraf-c#\\frmcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\pg2_siraf-c#\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_negocios\\clsrolcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\clsrolcn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_datos\\clsrolcd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\clsrolcd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\pg2_siraf-c#\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\pg2_siraf-c#\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\pg2_siraf-c#\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_negocios\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\pg2_siraf-c#\\frmcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\frmcursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_negocios\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_negocios\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\permisos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|c:\\users\\maryluzchuraticona\\source\\repos\\pg2_siraf-c#\\capa_de_negocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_negocios\\clsusuariocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\clsusuariocn.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_negocios\\clsresultadologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\clsresultadologin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_datos\\clsusuarioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\clsusuarioregistro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_datos\\clsusuariocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\clsusuariocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_datos\\clscursocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\clscursocd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{63656A58-1635-4518-A52B-983C0FA8BE3F}|CAPA_DE_DATOS\\CAPA_DE_DATOS.csproj|solutionrelative:capa_de_datos\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\pg2_siraf-c#\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{7C59079E-EC78-4B3C-B8FD-EE810D653176}|PG2_SIRAF-C#\\PG2_SIRAF-C#.csproj|solutionrelative:pg2_siraf-c#\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_negocios\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\capa_de_negocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AA5F273-B3C3-4E5A-8C5B-B4477C3FAD8B}|CAPA_DE_NEGOCIOS\\CAPA_DE_NEGOCIOS.csproj|solutionrelative:capa_de_negocios\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -82,11 +134,171 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "clsEstudiantesCD.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsEstudiantesCD.cs",
+              "RelativeDocumentMoniker": "CAPA_DE_DATOS\\clsEstudiantesCD.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsEstudiantesCD.cs",
+              "RelativeToolTip": "CAPA_DE_DATOS\\clsEstudiantesCD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:56:54.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "clsEstudianteCN.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsEstudianteCN.cs",
+              "RelativeDocumentMoniker": "CAPA_DE_NEGOCIOS\\clsEstudianteCN.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsEstudianteCN.cs",
+              "RelativeToolTip": "CAPA_DE_NEGOCIOS\\clsEstudianteCN.cs",
+              "ViewState": "AgIAAEkAAAAAAAAAAAAUwFgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T14:50:18.44Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmEstudiantes.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmEstudiantes.cs",
+              "RelativeDocumentMoniker": "PG2_SIRAF-C#\\frmEstudiantes.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmEstudiantes.cs*",
+              "RelativeToolTip": "PG2_SIRAF-C#\\frmEstudiantes.cs*",
+              "ViewState": "AgIAAGUAAAAAAAAAAAArwHAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:17:40.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "frmEstudiantes.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmEstudiantes.cs",
+              "RelativeDocumentMoniker": "PG2_SIRAF-C#\\frmEstudiantes.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmEstudiantes.cs [Dise\u00F1o]*",
+              "RelativeToolTip": "PG2_SIRAF-C#\\frmEstudiantes.cs [Dise\u00F1o]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:17:37.572Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "clsMatriculaCN.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsMatriculaCN.cs",
+              "RelativeDocumentMoniker": "CAPA_DE_NEGOCIOS\\clsMatriculaCN.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsMatriculaCN.cs",
+              "RelativeToolTip": "CAPA_DE_NEGOCIOS\\clsMatriculaCN.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAIwCkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:16:50.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "clsMatriculaCD.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsMatriculaCD.cs",
+              "RelativeDocumentMoniker": "CAPA_DE_DATOS\\clsMatriculaCD.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsMatriculaCD.cs",
+              "RelativeToolTip": "CAPA_DE_DATOS\\clsMatriculaCD.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAcwIQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T13:14:24.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\App.config",
+              "RelativeDocumentMoniker": "PG2_SIRAF-C#\\App.config",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\App.config",
+              "RelativeToolTip": "PG2_SIRAF-C#\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-10-29T12:59:28.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "clsRolCN.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsRolCN.cs",
+              "RelativeDocumentMoniker": "CAPA_DE_NEGOCIOS\\clsRolCN.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsRolCN.cs",
+              "RelativeToolTip": "CAPA_DE_NEGOCIOS\\clsRolCN.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:30:30.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "clsRolCD.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsRolCD.cs",
+              "RelativeDocumentMoniker": "CAPA_DE_DATOS\\clsRolCD.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsRolCD.cs",
+              "RelativeToolTip": "CAPA_DE_DATOS\\clsRolCD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:29:18.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmDocente.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmDocente.cs",
+              "RelativeDocumentMoniker": "PG2_SIRAF-C#\\frmDocente.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmDocente.cs",
+              "RelativeToolTip": "PG2_SIRAF-C#\\frmDocente.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAUwIoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:05:19.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "clsDocenteCN.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsDocenteCN.cs",
+              "RelativeDocumentMoniker": "CAPA_DE_NEGOCIOS\\clsDocenteCN.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsDocenteCN.cs",
+              "RelativeToolTip": "CAPA_DE_NEGOCIOS\\clsDocenteCN.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA9wCUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:04:57.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "clsDocenteCD.cs",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsDocenteCD.cs",
+              "RelativeDocumentMoniker": "CAPA_DE_DATOS\\clsDocenteCD.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsDocenteCD.cs",
+              "RelativeToolTip": "CAPA_DE_DATOS\\clsDocenteCD.cs",
+              "ViewState": "AgIAAIUAAAAAAAAAAAAIwJoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T12:04:08.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmDocente.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmDocente.cs",
+              "RelativeDocumentMoniker": "PG2_SIRAF-C#\\frmDocente.cs",
+              "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmDocente.cs [Dise\u00F1o]",
+              "RelativeToolTip": "PG2_SIRAF-C#\\frmDocente.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-29T11:55:00.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "frmCursos.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmCursos.cs",
               "RelativeDocumentMoniker": "PG2_SIRAF-C#\\frmCursos.cs",
@@ -94,25 +306,23 @@
               "RelativeToolTip": "PG2_SIRAF-C#\\frmCursos.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T07:16:43.408Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T07:16:43.408Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 11,
               "Title": "clsCursoCN.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsCursoCN.cs",
               "RelativeDocumentMoniker": "CAPA_DE_NEGOCIOS\\clsCursoCN.cs",
               "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsCursoCN.cs",
               "RelativeToolTip": "CAPA_DE_NEGOCIOS\\clsCursoCN.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAIwDUAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T07:16:17.646Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T07:16:17.646Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 26,
               "Title": "clsCursoCD.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsCursoCD.cs",
               "RelativeDocumentMoniker": "CAPA_DE_DATOS\\clsCursoCD.cs",
@@ -120,12 +330,11 @@
               "RelativeToolTip": "CAPA_DE_DATOS\\clsCursoCD.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T07:13:33.465Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T07:13:33.465Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 28,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\packages.config",
               "RelativeDocumentMoniker": "PG2_SIRAF-C#\\packages.config",
@@ -133,24 +342,22 @@
               "RelativeToolTip": "PG2_SIRAF-C#\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-29T07:12:49.245Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T07:12:49.245Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 14,
               "Title": "frmCursos.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmCursos.cs",
               "RelativeDocumentMoniker": "PG2_SIRAF-C#\\frmCursos.cs",
               "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmCursos.cs [Dise\u00F1o]",
               "RelativeToolTip": "PG2_SIRAF-C#\\frmCursos.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T07:12:45.67Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-29T07:12:45.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 29,
               "Title": "packages.config",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\packages.config",
               "RelativeDocumentMoniker": "CAPA_DE_NEGOCIOS\\packages.config",
@@ -158,25 +365,23 @@
               "RelativeToolTip": "CAPA_DE_NEGOCIOS\\packages.config",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2025-10-29T07:07:11.691Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T07:07:11.691Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 21,
               "Title": "Permisos.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\Permisos.cs",
               "RelativeDocumentMoniker": "CAPA_DE_NEGOCIOS\\Permisos.cs",
               "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\Permisos.cs",
               "RelativeToolTip": "CAPA_DE_NEGOCIOS\\Permisos.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T07:06:44.656Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T07:06:44.656Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 27,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\Class1.cs",
               "RelativeDocumentMoniker": "CAPA_DE_DATOS\\Class1.cs",
@@ -184,38 +389,36 @@
               "RelativeToolTip": "CAPA_DE_DATOS\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T05:22:03.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T05:22:03.586Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 25,
               "Title": "clsUsuarioCD.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsUsuarioCD.cs",
               "RelativeDocumentMoniker": "CAPA_DE_DATOS\\clsUsuarioCD.cs",
               "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsUsuarioCD.cs",
               "RelativeToolTip": "CAPA_DE_DATOS\\clsUsuarioCD.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAADAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T05:34:19.283Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T05:34:19.283Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "frmPrincipal.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "PG2_SIRAF-C#\\frmPrincipal.cs",
               "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmPrincipal.cs",
               "RelativeToolTip": "PG2_SIRAF-C#\\frmPrincipal.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAYwGAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAFcAAAAAAAAAAAArwGUAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T05:48:24.322Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "frmPrincipal.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmPrincipal.cs",
               "RelativeDocumentMoniker": "PG2_SIRAF-C#\\frmPrincipal.cs",
@@ -227,72 +430,68 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 23,
               "Title": "clsResultadoLogin.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsResultadoLogin.cs",
               "RelativeDocumentMoniker": "CAPA_DE_NEGOCIOS\\clsResultadoLogin.cs",
               "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsResultadoLogin.cs",
               "RelativeToolTip": "CAPA_DE_NEGOCIOS\\clsResultadoLogin.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T05:45:27.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T05:45:27.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 24,
               "Title": "clsUsuarioRegistro.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsUsuarioRegistro.cs",
               "RelativeDocumentMoniker": "CAPA_DE_DATOS\\clsUsuarioRegistro.cs",
               "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsUsuarioRegistro.cs",
               "RelativeToolTip": "CAPA_DE_DATOS\\clsUsuarioRegistro.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAqAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T05:42:54.533Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T05:42:54.533Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 18,
               "Title": "frmLogin.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmLogin.cs",
               "RelativeDocumentMoniker": "PG2_SIRAF-C#\\frmLogin.cs",
               "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmLogin.cs",
               "RelativeToolTip": "PG2_SIRAF-C#\\frmLogin.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAcwBgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T05:37:52.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T05:37:52.453Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 22,
               "Title": "clsUsuarioCN.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsUsuarioCN.cs",
               "RelativeDocumentMoniker": "CAPA_DE_NEGOCIOS\\clsUsuarioCN.cs",
               "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\clsUsuarioCN.cs",
               "RelativeToolTip": "CAPA_DE_NEGOCIOS\\clsUsuarioCN.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T05:35:27.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T05:35:27.759Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "clsConexion.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsConexion.cs",
               "RelativeDocumentMoniker": "CAPA_DE_DATOS\\clsConexion.cs",
               "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_DATOS\\clsConexion.cs",
               "RelativeToolTip": "CAPA_DE_DATOS\\clsConexion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-29T05:30:28.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 30,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\CAPA_DE_NEGOCIOS\\Class1.cs",
               "RelativeDocumentMoniker": "CAPA_DE_NEGOCIOS\\Class1.cs",
@@ -300,20 +499,18 @@
               "RelativeToolTip": "CAPA_DE_NEGOCIOS\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T05:22:20.06Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-29T05:22:20.06Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 19,
               "Title": "frmLogin.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmLogin.cs",
               "RelativeDocumentMoniker": "PG2_SIRAF-C#\\frmLogin.cs",
               "ToolTip": "C:\\Users\\MaryLuzCHURATICONA\\source\\repos\\PG2_SIRAF-C#\\PG2_SIRAF-C#\\frmLogin.cs [Dise\u00F1o]",
               "RelativeToolTip": "PG2_SIRAF-C#\\frmLogin.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-29T03:50:05.393Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-10-29T03:50:05.393Z"
             }
           ]
         }

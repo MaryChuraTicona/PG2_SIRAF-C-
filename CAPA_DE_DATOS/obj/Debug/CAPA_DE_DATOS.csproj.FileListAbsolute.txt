@@ -90,3 +90,9 @@ C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_DATOS\obj\Debug\CA
 C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_DATOS\obj\Debug\CAPA_DE_.89486A15.Up2Date
 C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_DATOS\obj\Debug\CAPA_DE_DATOS.dll
 C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_DATOS\obj\Debug\CAPA_DE_DATOS.pdb
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_DATOS\bin\Debug\AForge.dll
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_DATOS\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_DATOS\bin\Debug\AForge.Video.dll
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_DATOS\bin\Debug\AForge.xml
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_DATOS\bin\Debug\AForge.Video.xml
+C:\Users\MaryLuzCHURATICONA\source\repos\PG2_SIRAF-C#\CAPA_DE_DATOS\bin\Debug\AForge.Video.DirectShow.xml
